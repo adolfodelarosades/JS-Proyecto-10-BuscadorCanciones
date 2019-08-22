@@ -12,3 +12,6 @@ Lo que se utiliza:
 * Clases
 * Fetch API
 * Async Await
+* [Lyrics](https://lyrics.ovh/)
+* [API Lyrics](https://lyricsovh.docs.apiary.io/)
+
